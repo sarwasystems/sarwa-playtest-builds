@@ -36,6 +36,9 @@ The game may create `NOKIA-MAN-NATIVE-R01.sav` for local save data.
 
 ## Feedback
 
+Please post playtest feedback in **Issue #1 — NOKIA-MAN Native R01 — playtest feedback**:
+https://github.com/sarwasystems/sarwa-playtest-builds/issues/1
+
 When reporting a problem, please include your Windows version, whether you used keyboard or gamepad, what happened immediately before the problem, and whether the issue is reproducible.
 
 NOKIA-MAN is an unofficial parody project. It is not affiliated with or endorsed by Nokia Corporation or Apple Inc.
